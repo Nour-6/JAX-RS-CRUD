@@ -1,8 +1,11 @@
 package entity;
 
 
-import java.util.Objects;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
 
+import java.util.Objects;
+@ApiModel(description = "Entité Enregistrée dans Swagger")
 public class Employee {
     private String cin;
     private String nom;
@@ -17,7 +20,7 @@ public class Employee {
         this.nom = nom;
         this.prenom = prenom;
     }
-
+    @ApiModelProperty(value = "unique CIN")
     public String getCin() {
         return cin;
     }
@@ -25,7 +28,7 @@ public class Employee {
     public void setCin(String cin) {
         this.cin = cin;
     }
-
+    @ApiModelProperty(value = "get nom")
     public String getNom() {
         return nom;
     }
@@ -33,7 +36,7 @@ public class Employee {
     public void setNom(String nom) {
         this.nom = nom;
     }
-
+    @ApiModelProperty(value = "get prenom")
     public String getPrenom() {
         return prenom;
     }

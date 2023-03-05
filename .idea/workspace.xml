@@ -10,21 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bdd78f-81b7-4b64-b434-74c442c43ab9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CRUD/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Authentification/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Authentification/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git_Collaboration_Project" beforeDir="false" afterPath="$PROJECT_DIR$/../Git_Collaboration_Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAX-RS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/activator/RestActivator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/activator/RestActivator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ressources/RestRessources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restressources/GestionEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restressources/GestionEmployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/activator/RestActivator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/activator/RestActivator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/entity/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/ressources/RestRessources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/restressources/GestionEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JAX-RS-CRUD-1.0-SNAPSHOT/WEB-INF/classes/restressources/GestionEmployees.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/activator/RestActivator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/activator/RestActivator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ressources/RestRessources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restressources/GestionEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restressources/GestionEmployees.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jax-RS-Project/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projet_1" beforeDir="false" afterPath="$PROJECT_DIR$/../projet_1" afterDir="false" />
     </list>
@@ -34,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -52,13 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="restressources" />
@@ -164,6 +164,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678015390779</updated>
       <workItem from="1678015392134" duration="710000" />
+      <workItem from="1678037804745" duration="4192000" />
+      <workItem from="1678042716390" duration="5470000" />
     </task>
     <servers />
   </component>
